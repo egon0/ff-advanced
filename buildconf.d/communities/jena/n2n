@@ -1,1 +1,2 @@
 CONFIG_PACKAGE_n2n=n
+CONFIG_PACKAGE_ffadv-n2n-watchdog=n
